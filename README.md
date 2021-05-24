@@ -10,7 +10,7 @@ https://aaudk-my.sharepoint.com/:f:/g/personal/mapo17_student_aau_dk/EsUay0aAvFF
 The VA_regressor folder contains a several VA-regressors setup in TensorFlow, that can be used to perform prediction on a webcam. The models need to be downloaded from the link above <br/>
 The Notebook folder contains the independent notebooks. Most importantly are the following two, the test is several trials on other datasets <br/>
 AffectNet.ipynb is the file used to train and evaluate all the models on the AffectNet dataset. <br/>
-OMG.ipynb is the file used to evaluate the trained CNN regressor on the AffectNet dataset on the
+OMG.ipynb is the file used to evaluate the trained CNN regressor on the OMG validation set.
 
 # Cobot Implementation
 The following section contains the code that has been used to develop the cobot, that has been used in the human robot interaction.
